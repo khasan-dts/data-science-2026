@@ -3,8 +3,7 @@ Perkenalkan saya Muhammad Khasan Zubaeri, NIM 250401020089, dan kelas IF403. say
 Tujuan saya mempelajari data science untuk meningkatkan kemampuan dalam mengolah dan menganalisis data sehingga menghasilkan informasi yang dapat digunakan dalam pemecahan masalah dan mendukung pengambilan keputusan yang tepat dan berbasis data. Peningkatan kemampuan dan menganalisis data dimulai dari penerapan dasar-dasar python, cara memuat dataset, mengetahui jumlah data termasuk jumlah baris dan kolom data, mendeteksi nilai kosong (misssing value), proses data cleaning menggunakan metode hapus duplikat data, pengisian nilai kosong (missing value) sehingga diperoleh data yang bersih dan siap untuk dilakukan analisis data secara sederhana menggunakan filter dan groupby
 
 untuk memulai dari proses awal sampai dengan data siap dilakukan analisis data terbagi kedalam 7 (tujuh) pertemuan sebagai berikut:
-**Pertemuan 1 - Pengenalan Data Science**
-link : https://github.com/khasan-dts/data-science-2026/blob/main/Pertemuan1_MuhammadKhasan_250401020089.ipynb
+**Pertemuan 1 - Pengenalan Data Science** (link : https://github.com/khasan-dts/data-science-2026/blob/main/Pertemuan1_MuhammadKhasan_250401020089.ipynb)
 
 **Pertemuan 2 - Struktur Data Python, NumPy & Pandas**
 link : https://github.com/khasan-dts/data-science-2026/blob/main/Pertemuan2_MuhammadKhasan_250401020089.ipynb
