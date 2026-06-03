@@ -27,6 +27,7 @@ Di dalam repository ini terdapat berbagai praktik yang mencakup pengenalan Pytho
 **Tools/library yang digunakan berupa Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn.**
 
 **Cara Menjalankan Notebook**
+
 Opsi 1 - Menjalankan Secara Lokal
 Clone repository:
 git clone https://github.com/khasan-dts/data-science-2026.git
@@ -39,6 +40,7 @@ jupyter notebook
 Buka notebook sesuai pertemuan yang ingin dipelajari.
 
 **Opsi 2 - Google Colab**
+
 Notebook juga dapat dibuka menggunakan Google Colab dengan mengunggah file .ipynb atau menggunakan fitur GitHub pada Google Colab dengan cara:
 1. Buka situs Google Colab.
 2. Pilih menu File > Buka notebook (Open notebook).
