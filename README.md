@@ -3,6 +3,7 @@ Perkenalkan saya Muhammad Khasan Zubaeri, NIM 250401020089, dan kelas IF403. say
 Tujuan saya mempelajari data science untuk meningkatkan kemampuan dalam mengolah dan menganalisis data sehingga menghasilkan informasi yang dapat digunakan dalam pemecahan masalah dan mendukung pengambilan keputusan yang tepat dan berbasis data. Selain itu, saya ingin memahami bagaimana data dapat digunakan untuk membangun model prediksi menggunakan teknik Machine Learning.
 
 Di dalam repository ini terdapat berbagai praktik yang mencakup pengenalan Python, penggunaan Pandas dan NumPy untuk pengolahan data, proses data cleaning, analisis statistik, visualisasi data, persiapan data untuk Machine Learning, hingga pembangunan model Regresi Linear yang terbagi kedalam 7 (tujuh) pertemuan sebagai berikut:
+
 **Pertemuan 1 - Pengenalan Data Science** 
 (https://github.com/khasan-dts/data-science-2026/blob/main/Pertemuan1_MuhammadKhasan_250401020089.ipynb)
 
