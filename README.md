@@ -30,15 +30,15 @@ Di dalam repository ini terdapat berbagai praktik yang mencakup pengenalan Pytho
 **Cara Menjalankan Notebook**
 
 Opsi 1 - Menjalankan Secara Lokal
-Clone repository:
-git clone https://github.com/khasan-dts/data-science-2026.git
-Masuk ke folder repository:
-cd data-science-2026
-Install library yang dibutuhkan:
-pip install pandas numpy matplotlib seaborn scikit-learn scipy requests
-Jalankan Jupyter Notebook:
-jupyter notebook
-Buka notebook sesuai pertemuan yang ingin dipelajari.
+1. Clone repository:
+   git clone https://github.com/khasan-dts/data-science-2026.git
+2. Masuk ke folder repository:
+   cd data-science-2026
+3. Install library yang dibutuhkan:
+   pip install pandas numpy matplotlib seaborn scikit-learn scipy requests
+4. Jalankan Jupyter Notebook:
+   jupyter notebook
+5. Buka notebook sesuai pertemuan yang ingin dipelajari.
 
 **Opsi 2 - Google Colab**
 
