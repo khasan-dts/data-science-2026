@@ -4,6 +4,7 @@ Tujuan saya mempelajari data science untuk meningkatkan kemampuan dalam mengolah
 
 untuk memulai dari proses awal sampai dengan data siap dilakukan analisis data terbagi kedalam 7 (tujuh) pertemuan sebagai berikut:
 **Pertemuan 1 - Pengenalan Data Science**
+
 link : https://github.com/khasan-dts/data-science-2026/blob/main/Pertemuan1_MuhammadKhasan_250401020089.ipynb
 **Pertemuan 2 - Struktur Data Python, NumPy & Pandas**
 link : https://github.com/khasan-dts/data-science-2026/blob/main/Pertemuan2_MuhammadKhasan_250401020089.ipynb
